@@ -1,0 +1,6 @@
+{
+  "name": "PDF DocGen & Signer",
+  "description": "A simple web application to generate, preview, and download signed PDF documents with personal details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
